@@ -44,3 +44,4 @@ type PluginOptions = {
 - https://webpack.js.org/contribute/writing-a-plugin/
 - https://webpack.js.org/api/compiler-hooks/
 - https://webpack.js.org/api/stats/
+- https://www.npmjs.com/package/webpack-deadcode-plugin
